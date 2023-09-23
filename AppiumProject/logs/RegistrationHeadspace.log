@@ -1,0 +1,112 @@
+18/09/23 03:46:41 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:47:02 PM Monday - test_registration_1_0_blank_fields - INFO : Clicked the Continue with email button
+18/09/23 03:47:08 PM Monday - test_registration_1_0_blank_fields - INFO : Took the TC_1_0_SingUpPageConfirmation screenshot
+18/09/23 03:47:08 PM Monday - test_registration_1_0_blank_fields - INFO : Sing Up page opened
+18/09/23 03:47:43 PM Monday - test_registration_1_0_blank_fields - INFO : Password is not correct, an account cannot be created
+18/09/23 03:47:43 PM Monday - test_registration_1_0_blank_fields - INFO : Password is not correct, an account cannot be created
+18/09/23 03:47:43 PM Monday - test_registration_1_0_blank_fields - INFO : Took the TC_1_0_PasswordCheck screenshot
+18/09/23 03:48:08 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:48:08 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:48:31 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Clicked the Continue with email button
+18/09/23 03:48:36 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Took the TC_1_1_SingUpPageConfirmation screenshot
+18/09/23 03:48:36 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Sing Up page opened
+18/09/23 03:48:36 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Clicked the First name field
+18/09/23 03:48:37 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : First name entered
+18/09/23 03:48:38 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Clicked the Last name field
+18/09/23 03:48:39 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Last name entered
+18/09/23 03:48:40 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Clicked the Email address field
+18/09/23 03:48:41 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Email address entered
+18/09/23 03:48:41 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Clicked the Password field
+18/09/23 03:48:42 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Password entered
+18/09/23 03:48:44 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Password is correct, an account can be created
+18/09/23 03:48:45 PM Monday - test_registration_1_1_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number_1specialCharacter - INFO : Took the TC_1_1_PasswordCheck screenshot
+18/09/23 03:49:03 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:49:03 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:49:03 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:49:16 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Clicked the Continue with email button
+18/09/23 03:49:20 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Took the TC_1_2_SingUpPageConfirmation screenshot
+18/09/23 03:49:20 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Sing Up page opened
+18/09/23 03:49:21 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Clicked the First name field
+18/09/23 03:49:21 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : First name entered
+18/09/23 03:49:22 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Clicked the Last name field
+18/09/23 03:49:22 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Last name entered
+18/09/23 03:49:23 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Clicked the Email address field
+18/09/23 03:49:24 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Email address entered
+18/09/23 03:49:25 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Clicked the Password field
+18/09/23 03:49:25 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Password entered
+18/09/23 03:49:27 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Password is correct, an account can be created
+18/09/23 03:49:27 PM Monday - test_registration_1_2_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1number - INFO : Took the TC_1_2_PasswordCheck screenshot
+18/09/23 03:49:43 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:49:43 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:49:43 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:49:43 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:49:56 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Clicked the Continue with email button
+18/09/23 03:50:00 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Took the TC_1_3_SingUpPageConfirmation screenshot
+18/09/23 03:50:00 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Sing Up page opened
+18/09/23 03:50:00 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Clicked the First name field
+18/09/23 03:50:01 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : First name entered
+18/09/23 03:50:02 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Clicked the Last name field
+18/09/23 03:50:03 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Last name entered
+18/09/23 03:50:03 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Clicked the Email address field
+18/09/23 03:50:04 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Email address entered
+18/09/23 03:50:06 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Clicked the Password field
+18/09/23 03:50:06 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Password entered
+18/09/23 03:50:07 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Password is correct, an account can be created
+18/09/23 03:50:08 PM Monday - test_registration_1_3_passwordContaining_1upperCaseCharacter_lowerCaseCharacters_1specialCharacter - INFO : Took the TC_1_3_PasswordCheck screenshot
+18/09/23 03:50:23 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:50:23 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:50:23 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:50:23 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:50:23 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:50:40 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Clicked the Continue with email button
+18/09/23 03:50:44 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Took the TC_1_4_SingUpPageConfirmation screenshot
+18/09/23 03:50:44 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Sing Up page opened
+18/09/23 03:50:44 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Clicked the First name field
+18/09/23 03:50:45 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : First name entered
+18/09/23 03:50:46 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Clicked the Last name field
+18/09/23 03:50:47 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Last name entered
+18/09/23 03:50:48 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Clicked the Email address field
+18/09/23 03:50:48 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Email address entered
+18/09/23 03:50:49 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Clicked the Password field
+18/09/23 03:50:50 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Password entered
+18/09/23 03:51:25 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Password is not correct, an account cannot be created
+18/09/23 03:51:27 PM Monday - test_registration_1_4_passwordContaining_lowerCaseCharacters_1number_1specialCharacter - INFO : Took the TC_1_4_PasswordCheck screenshot
+18/09/23 03:51:49 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:51:49 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:51:49 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:51:49 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:51:49 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:51:49 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:52:05 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Clicked the Continue with email button
+18/09/23 03:52:10 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Took the TC_1_5_SingUpPageConfirmation screenshot
+18/09/23 03:52:10 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Sing Up page opened
+18/09/23 03:52:10 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Clicked the First name field
+18/09/23 03:52:11 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : First name entered
+18/09/23 03:52:12 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Clicked the Last name field
+18/09/23 03:52:13 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Last name entered
+18/09/23 03:52:14 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Clicked the Email address field
+18/09/23 03:52:15 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Email address entered
+18/09/23 03:52:16 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Clicked the Password field
+18/09/23 03:52:17 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Password entered
+18/09/23 03:52:52 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Password is not correct, an account cannot be created
+18/09/23 03:52:52 PM Monday - test_registration_1_5_passwordContaining_upperCaseCharacters_1number_1specialCharacter - INFO : Took the TC_1_5_PasswordCheck screenshot
+18/09/23 03:53:13 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:53:13 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:53:13 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:53:13 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:53:13 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:53:13 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:53:13 PM Monday - setUp - INFO : Launched the app
+18/09/23 03:53:31 PM Monday - test_registration_1_6_too_short_password - INFO : Clicked the Continue with email button
+18/09/23 03:53:35 PM Monday - test_registration_1_6_too_short_password - INFO : Took the TC_1_6_SingUpPageConfirmation screenshot
+18/09/23 03:53:35 PM Monday - test_registration_1_6_too_short_password - INFO : Sing Up page opened
+18/09/23 03:53:35 PM Monday - test_registration_1_6_too_short_password - INFO : Clicked the First name field
+18/09/23 03:53:36 PM Monday - test_registration_1_6_too_short_password - INFO : First name entered
+18/09/23 03:53:37 PM Monday - test_registration_1_6_too_short_password - INFO : Clicked the Last name field
+18/09/23 03:53:38 PM Monday - test_registration_1_6_too_short_password - INFO : Last name entered
+18/09/23 03:53:39 PM Monday - test_registration_1_6_too_short_password - INFO : Clicked the Email address field
+18/09/23 03:53:39 PM Monday - test_registration_1_6_too_short_password - INFO : Email address entered
+18/09/23 03:53:40 PM Monday - test_registration_1_6_too_short_password - INFO : Clicked the Password field
+18/09/23 03:53:40 PM Monday - test_registration_1_6_too_short_password - INFO : Password entered
+18/09/23 03:54:15 PM Monday - test_registration_1_6_too_short_password - INFO : Password is not correct, an account cannot be created
+18/09/23 03:54:16 PM Monday - test_registration_1_6_too_short_password - INFO : Took the TC_1_6_PasswordCheck screenshot
